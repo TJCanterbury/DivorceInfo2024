@@ -38,5 +38,7 @@ Thumbs.db
 
 # Large files #
 #######################
-.png
-.jpg
+*.png
+*.jpg
+*.eps
+*.pdf
